@@ -1,0 +1,5 @@
+numpy
+pands
+scikit-learn
+malplotlib
+seaborn
